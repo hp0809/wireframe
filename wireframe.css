@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    font-family: "PT Sans", sans-serif;
+}
+
+body {
+    background-color:darkgray;
+}
+
+header {
+    width: 100%;
+    height: 150px;
+    background-color: lightgray;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+header img {
+    float: left;
+}
+
+header h4 {
+    display: inline;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+main {
+    background: gray;;
+    width: 90%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    color: white;
+}
